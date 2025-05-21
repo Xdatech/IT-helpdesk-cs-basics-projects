@@ -1,27 +1,42 @@
-# IT & Helpdesk Project Docs
+# 🛠️ IT & Helpdesk Projects Repository
 
-This repository contains documentation, runbooks, and troubleshooting workflows used across various IT support and helpdesk roles.
+Welcome to the official IT/Helpdesk Documentation Hub. This repo showcases real-world support documentation, SOPs, and troubleshooting guides for Tier 1–3 IT operations.
 
-## 🔧 Key Areas
-- User account & access management
-- System troubleshooting
-- Device provisioning
-- VPN & remote access
-- Ticket resolution workflows
-- Onboarding/offboarding
+---
 
-## 📂 Project Structure
-- `/projects`: Specific guides and workflows
-- `/runbooks`: Repetitive tasks documented for quick access
-- `/diagrams`: Visual assets for networks and systems
+## 📂 Directory Structure
 
-## 🧪 Sample Use
-Use these docs to:
-- Build your helpdesk portfolio
-- Prepare for job interviews
-- Improve your Tier 1–3 troubleshooting knowledge
+- `projects/` – One-off or scenario-based documentation (e.g., password reset guides, device setup).
+- `runbooks/` – Repetitive task procedures (e.g., patching, user onboarding).
+- `diagrams/` – Network maps, deployment flows, and support architecture.
+- `assets/` – Screenshots, icons, and reference images.
 
-## ⚙️ Tools Used
-- Word/LibreOffice
+---
+
+## 📋 Sample Use Cases
+
+- Building a helpdesk documentation portfolio
+- Prepping for Tier 1–3 job roles
+- Training new IT staff
+- Showcasing process understanding in interviews
+
+---
+
+## ✍️ Docs Style
+
+Most docs are in `.docx` format for clarity and formatting control. Where possible, PDF exports are included for easy preview.
+
+---
+
+## 🔧 Tools Used
+
+- Microsoft Word / LibreOffice
 - Draw.io / Lucidchart
-- Windows Admin tools
+- Windows Admin Center, PowerShell
+- TryHackMe, Hack The Box (for security-related examples)
+
+---
+
+## 📜 License
+
+Feel free to use and remix these docs for learning and career growth. Attribution appreciated.
